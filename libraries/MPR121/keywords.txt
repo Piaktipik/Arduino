@@ -1,0 +1,32 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+CapaTouch	KEYWORD2
+config	KEYWORD2
+mpwrite	KEYWORD2
+mpread	KEYWORD2
+touch		KEYWORD2
+getX    KEYWORD2
+getY    KEYWORD2   
+
+wheelKey	KEYWORD2
+keyPad		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+MPR121	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

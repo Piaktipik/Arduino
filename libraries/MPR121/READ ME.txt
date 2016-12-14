@@ -1,0 +1,10 @@
+MPR121 is a library to make it easier to use the MPR121 capacitive touch sensor with Arduino.
+
+Tested on Arduino 1.0.1
+
+This version is improved on the basis of the library provided by Waiman Zhao.
+Improve the resolution of the touchpad to 9x13 points
+
+                                                     
+Jiang Hao
+email: jianghao0716@gmail.com
